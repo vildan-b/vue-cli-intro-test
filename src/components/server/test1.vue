@@ -12,3 +12,10 @@
 
 <script>
 </script>
+
+<style scoped>
+div{
+  border: 2px dashed red;
+  
+}
+</style>
